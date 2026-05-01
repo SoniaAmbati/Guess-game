@@ -26,9 +26,9 @@ Follow the prompts to select a difficulty and enter guesses. After a round you c
 
 ## Files
 
-- `guess.py` — main game script
-- `best_score.txt` — (created after a winning game) stores the best (lowest) number of attempts
-- `README.md` — this file
+- [guess.py](guess.py) — main game script
+- [best_score.txt](best_score.txt) — created after a winning game; stores the best (lowest) number of attempts
+- [README.md](README.md) — this file
 
 ## Notes
 
